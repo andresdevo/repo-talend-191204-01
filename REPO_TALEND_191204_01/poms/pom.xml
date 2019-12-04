@@ -15,6 +15,7 @@
     <module>jobs/process/tercer_job345_0.1</module>
     <module>jobs/process/cuarto_o_0.1</module>
     <module>jobs/process/sexto_job_avm_0.1</module>
+    <module>jobs/process/quintojob_0.1</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
