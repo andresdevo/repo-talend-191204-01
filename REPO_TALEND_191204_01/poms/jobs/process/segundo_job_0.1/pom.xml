@@ -9,9 +9,9 @@
     <relativePath>../../../</relativePath>
   </parent>
   <groupId>org.example.repo_talend_191204_01.job</groupId>
-  <artifactId>segundo</artifactId>
+  <artifactId>segundo_job</artifactId>
   <version>0.1.0</version>
-  <name>REPO_TALEND_191204_01 segundo-0.1.0 (0.1,Job Designs)</name>
+  <name>REPO_TALEND_191204_01 segundo_job-0.1.0 (0.1,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
@@ -19,12 +19,12 @@
     <current.int-resources.dir>${basedir}/src/main/resources</current.int-resources.dir>
     <talend.job.version>0.1</talend.job.version>
     <talend.project.name.lowercase>repo_talend_191204_01</talend.project.name.lowercase>
-    <talend.job.path>repo_talend_191204_01/segundo_0_1</talend.job.path>
+    <talend.job.path>repo_talend_191204_01/segundo_job_0_1</talend.job.path>
     <project.distribution-management.repository.id>${project.distributionManagement.repository.id}</project.distribution-management.repository.id>
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
     <talend.project.name>REPO_TALEND_191204_01</talend.project.name>
     <talend.product.version>7.2.1.20190909_1200_patch</talend.product.version>
-    <talend.job.finalName>segundo_0_1</talend.job.finalName>
+    <talend.job.finalName>segundo_job_0_1</talend.job.finalName>
     <talend.pigudf.groupid>org.example.repo_talend_191204_01.pigudf</talend.pigudf.groupid>
     <talend.routine.groupid>org.example.repo_talend_191204_01.code</talend.routine.groupid>
     <current.bundle.resources.dir>${basedir}/src/main/bundle-resources</current.bundle.resources.dir>
@@ -33,7 +33,7 @@
     <talend.job.context>Default</talend.job.context>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
-    <talend.job.name>segundo</talend.job.name>
+    <talend.job.name>segundo_job</talend.job.name>
     <talend.job.id>_9sPkQBaWEeqLAaA8xT5yPw</talend.job.id>
     <talend.project.id>0</talend.project.id>
     <talend.job.folder></talend.job.folder>
