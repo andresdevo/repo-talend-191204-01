@@ -11,6 +11,8 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/primerjob_0.1</module>
+    <module>jobs/process/tercer_job_0.1</module>
+    <module>jobs/process/segundo_0.1</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
